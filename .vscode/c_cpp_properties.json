@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/include",
-                "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/src",
-                "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/lib/tinympc",
-                "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/lib/tinympc/Eigen",
+                "C:/Users/gowon/Desktop/xEV2_teensy/include",
+                "C:/Users/gowon/Desktop/xEV2_teensy/src",
+                "C:/Users/gowon/Desktop/xEV2_teensy/lib/tinympc",
+                "C:/Users/gowon/Desktop/xEV2_teensy/lib/tinympc/Eigen",
                 "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                 "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
@@ -118,10 +118,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/include",
-                    "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/src",
-                    "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/lib/tinympc",
-                    "C:/Users/gowon/Desktop/teensy_tinympc2_benchmark/lib/tinympc/Eigen",
+                    "C:/Users/gowon/Desktop/xEV2_teensy/include",
+                    "C:/Users/gowon/Desktop/xEV2_teensy/src",
+                    "C:/Users/gowon/Desktop/xEV2_teensy/lib/tinympc",
+                    "C:/Users/gowon/Desktop/xEV2_teensy/lib/tinympc/Eigen",
                     "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                     "C:/Users/gowon/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
