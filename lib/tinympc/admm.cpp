@@ -146,6 +146,13 @@ extern "C"
         (solver->work->q).noalias() -= solver->cache->rho * (solver->work->vnew - solver->work->g);
         solver->work->p.col(NHORIZON - 1) = -(solver->work->Xref.col(NHORIZON - 1).transpose().lazyProduct(solver->cache->Pinf));
         solver->work->p.col(NHORIZON - 1) -= solver->cache->rho * (solver->work->vnew.col(NHORIZON - 1) - solver->work->g.col(NHORIZON - 1));
-    }
 
+        
+        // for (int i = 0; i < NHORIZON - 1; i++)
+        // {
+        //     solver->work->r.col(i) = -solver->cache->rho * (solver->work->znew.col(i) - solver->work->y.col(i)) - solver->work->R * solver->work->Uref.col(i);
+        //     solver->work->q.col(i) = -solver->cache->rho * (solver->work->vnew.col(i) - solver->work->g.col(i)) - solver->work->Q * solver->work->Xref.col(i);
+        // }
+        // solver->work->p.col(NHORIZON - 1) = -solver->cache->rho * (solver->work->vnew.col(NHORIZON - 1) - solver->work->g.col(NHORIZON - 1)) - solver->work->Qf * solver->work->Xref.col(NHORIZON - 1);
+    }
 } /* extern "C" */

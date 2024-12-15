@@ -8,4 +8,4 @@ typedef float tinytype;
 
 #define NHORIZON 10
 
-#define NTOTAL 10001
+#define NTOTAL 1001
