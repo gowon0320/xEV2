@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/kjh78/xEV2/include",
-                "C:/Users/kjh78/xEV2/src",
-                "C:/Users/kjh78/xEV2/lib/tinympc",
-                "C:/Users/kjh78/xEV2/lib/tinympc/Eigen",
+                "C:/Users/kjh78/Desktop/xEV2/include",
+                "C:/Users/kjh78/Desktop/xEV2/src",
+                "C:/Users/kjh78/Desktop/xEV2/lib/tinympc",
+                "C:/Users/kjh78/Desktop/xEV2/lib/tinympc/Eigen",
                 "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                 "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                 "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
@@ -117,10 +117,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/kjh78/xEV2/include",
-                    "C:/Users/kjh78/xEV2/src",
-                    "C:/Users/kjh78/xEV2/lib/tinympc",
-                    "C:/Users/kjh78/xEV2/lib/tinympc/Eigen",
+                    "C:/Users/kjh78/Desktop/xEV2/include",
+                    "C:/Users/kjh78/Desktop/xEV2/src",
+                    "C:/Users/kjh78/Desktop/xEV2/lib/tinympc",
+                    "C:/Users/kjh78/Desktop/xEV2/lib/tinympc/Eigen",
                     "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/cores/teensy4",
                     "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/libraries/ADC",
                     "C:/Users/kjh78/.platformio/packages/framework-arduinoteensy/libraries/AccelStepper/src",
